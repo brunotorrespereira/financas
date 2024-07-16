@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "829214463928",
+    "project_id": "helpdesk-97398",
+    "storage_bucket": "helpdesk-97398.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829214463928:android:d0ec01ca27f7f09da4614d",
+        "android_client_info": {
+          "package_name": "com.appcrud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtq0UMB-f1aXEYZLZwb-hzkv-pHwb8pCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
