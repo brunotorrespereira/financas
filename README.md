@@ -1,6 +1,10 @@
 
 # Finanças 
 
+### Tela Principal
+esse aplicativo foi desenvolvido para estudo.
+![Tela Principal](src/assets/telas-financas.png)
+
 ## 📖 Sobre o projeto
 O projeto envolve a criação de um aplicativo de gerenciamento financeiro pessoal, utilizando React Native e Firebase.
 
